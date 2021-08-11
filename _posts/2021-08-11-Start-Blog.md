@@ -19,11 +19,11 @@ jekyll 설치는 가뿐히 성공했었다. 하지만 그 다음으로 맞닥뜨
 
 >[jamstackthemes.dev](https://jamstackthemes.dev/)
 >
->jekyllthemes.org
+>[jekyllthemes.org](jekyllthemes.org)
 >
->jekyllthemes.io
+>[jekyllthemes.io](jekyllthemes.io)
 >
->jekyll-themes.com
+>[jekyll-themes.com](jekyll-themes.com)
 
 ### **2. 파일 경로에 한글이 포함되어 있었음.**
 
@@ -97,4 +97,11 @@ git push
 
 시간을 꽤 많이 잡아먹었지만 삽질하면서 정말 많은 걸 알아간다. 이제 깃허브 블로그도 어느정도 완성했으니 이젠 공부기록을 차근차근 정리해 가려 한다.
  
-
+#### **앞으로 해야할 것들**
+- [이 분](https://jayleekr.github.io/posts/Blog-%EA%B4%80%EB%A0%A8-FAQ/)처럼 portfolio 카테고리 추가하기 + [이 분](http://blog.ju-ing.com/sectormaps/)의 예시도 신기해 보인다.
+- search 제대로 동작하는지 확인
+- 왼쪽 사이드바 하단 아이콘 수정
+- 크롬 캐시 문제 해결
+- about 내용 추가하기
+- 이미지, 카테고리 수정하기
+- 구글 검색 활성화하기 + 구글 analytics 적용
