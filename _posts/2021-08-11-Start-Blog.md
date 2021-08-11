@@ -17,13 +17,13 @@ jekyll 설치는 가뿐히 성공했었다. 하지만 그 다음으로 맞닥뜨
 
 `블로그 테마는 각자 원하는 걸로 정하기만 하면 된다. 별로 어렵지 않다. 아래의 페이지들에서 원하는 테마를 찾아보자.`
 
->[jamstackthemes.dev](https://jamstackthemes.dev/)
+>jamstackthemes.dev
 >
->[jekyllthemes.org](jekyllthemes.org)
+>jekyllthemes.org
 >
->[jekyllthemes.io](jekyllthemes.io)
+>jekyllthemes.io
 >
->[jekyll-themes.com](jekyll-themes.com)
+>jekyll-themes.com
 
 ### **2. 파일 경로에 한글이 포함되어 있었음.**
 
