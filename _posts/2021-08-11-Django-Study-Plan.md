@@ -2,7 +2,7 @@
 title: Django를 공부해보자!
 author: LaonMoon
 date: 2021-08-11 18:37:00 +/-TTTT
-categories: [Plan, Django]
+categories: [Study, Django]
 tags: [plan]
 ---
 

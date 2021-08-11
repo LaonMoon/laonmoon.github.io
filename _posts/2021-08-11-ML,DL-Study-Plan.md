@@ -2,7 +2,7 @@
 title: Machine Learning, Deep Learning을  공부해보자!
 author: LaonMoon
 date: 2021-08-11 18:50:00 +/-TTTT
-categories: [Plan, AI(ML+DL)]
+categories: [Study, AI(ML+DL)]
 tags: [plan]
 ---
 
