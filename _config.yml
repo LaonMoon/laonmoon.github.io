@@ -36,10 +36,13 @@ github:
 twitter:
   username: dev_laon         # change to your twitter username
 
+linkedin:
+  username: jiwon-moon       # change to your twitter username
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jiwon Moon
+  name: Laon Moon
   email: devlaonmoon@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -47,7 +50,7 @@ social:
     - https://github.com/LaonMoon    # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/jiwon-mun-23a76019a/
+    - https://www.linkedin.com/in/jiwon-moon
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
