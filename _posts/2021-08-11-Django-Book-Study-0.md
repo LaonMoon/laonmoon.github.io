@@ -1,5 +1,5 @@
 ---
-title: [Django] Do it 책 공부하기전 준비
+title: "[Django] 0. Do it 책 공부하기전 준비"
 author: LaonMoon
 date: 2021-08-11 22:02:00 +/-TTTT
 categories: [Study, Django]
