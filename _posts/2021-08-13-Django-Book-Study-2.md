@@ -5,6 +5,7 @@ date: 2021-08-13 11:28:00 +/-TTTT
 categories: [Study, Django]
 tags: [Django]
 ---
+
 ### 03-2 CSS 살펴보기
 웹페이지 디자인이 일관성 있게 만들려면 style 태그를 복사해온다? -> X. 웹페이지 수가 많을 때는 그러기 힘들다.
 
@@ -19,7 +20,7 @@ CSS : 텍스트의 크기, 색, 이미지의 크기나 위치를 지정
 
 #### CSS 적용하기
 1. 새로 css 파일을 만든다.
-```CSS
+```css
 nav{
 	background-color: darkgreen; font-size: 150%; text-align:center
 	}
@@ -28,6 +29,7 @@ nav a{
 	}
 ```
 2. html 파일에 CSS 링크를 단다.
+
 ```html
 <link href="./practice.css" rel="stylesheet" type="text/css">
 ```
