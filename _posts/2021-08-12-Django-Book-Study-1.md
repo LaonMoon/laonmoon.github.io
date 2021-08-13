@@ -1,5 +1,5 @@
 ---
-title: "[Django] 1. Django 알아보기(+HTML 실습) - 03-1까지"
+title: "[Django] 1. Django 알아보기(+HTML 실습) : 03-1까지"
 author: LaonMoon
 date: 2021-08-12 08:34:00 +/-TTTT
 categories: [Study, Django]

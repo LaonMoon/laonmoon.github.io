@@ -7,7 +7,7 @@ tags: [Django]
 ---
 
 ### 03-2 CSS 살펴보기
-웹페이지 디자인이 일관성 있게 만들려면 style 태그를 복사해온다? -> X. 웹페이지 수가 많을 때는 그러기 힘들다.
+웹페이지 디자인을 일관성 있게 만들려면 style 태그를 복사해온다? -> X. 웹페이지 수가 많을 때는 그러기 힘들다.
 
 **CSS(Cascading style sheets)**를 사용!
 
@@ -29,6 +29,8 @@ nav a{
 	}
 ```
 2. html 파일에 CSS 링크를 단다.
+
+`style 태그`가 있던 `head 태그`안에 해당 코드를 넣어준다.
 
 ```html
 <link href="./practice.css" rel="stylesheet" type="text/css">

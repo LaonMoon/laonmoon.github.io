@@ -85,8 +85,8 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-#avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
-avatar : https://user-images.githubusercontent.com/59153968/128794755-dcb0a32a-a051-4cfa-b5f1-9ead6506a859.PNG
+avatar: assets/img/Django/boy.jpg
+#avatar : https://user-images.githubusercontent.com/59153968/128794755-dcb0a32a-a051-4cfa-b5f1-9ead6506a859.PNG
 
 # boolean type, the global switch for ToC in posts.
 toc: true
