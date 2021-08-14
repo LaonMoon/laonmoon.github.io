@@ -1,5 +1,5 @@
 ---
-title: "[Django] 3. 부트스트랩 알아보기 : 까지"
+title: "[Django] 3. 부트스트랩 알아보기(1) : 04-1"
 author: LaonMoon
 date: 2021-08-13 14:53:00 +/-TTTT
 categories: [Study, Django]
@@ -173,4 +173,29 @@ div class="container"안에 div class="row"를 하나 만든다. 그리고 그 �
 ```
 
 #### spacing으로 간격 주기
-간격을 조정하는 방법 -> 마진 `margin`과 패딩 `padding`이 있다.
+간격을 조정하는 방법 -> 마진 `margin`과 패딩 `padding`이 있다. 마진은 내용 경계 바깥쪽으로 간격을 두는 방법이고, 패딩은 내용 경계 안쪽으로 간격을 두는 방법이다.
+
+![margin and padding](/assets/img/Django/margin_and_padding.jfif)
+
+1. 내비게이션 바와 내용 사이에 마진 넣기
+
+부트스트랩에서는 요소의 class에 `m-숫자`를 추가해 마진을 줄 수 있다.`mt-숫자`를 추가하면 위에만 마진을 주고, `mb-숫자`는 아래에, `my-숫자`는 위 아래 모두에 마진을 준다.
+
+```html
+<div class="row my-3">
+```
+2. 내비게이션 바 오른쪽 정렬하기
+
+spacing을 이용하면 구성 요소를 정렬시킬 수 있다. `ml-auto`나 `mr-auto`를 사용한다. ml-auto는 왼쪽 마진을 최대한 확보하라는 의미이고, mr-auto는 오른쪽 마진을 최대한 확보하라는 의미이다.
+
+내비게이션 바에 Log In 버튼을 추가하고 이 버튼만 오른쪽 정렬하기-> **ml-auto을 추가**한다 or **첫번째 `ul 태그`의 class에 mr-auto를 추가**한다.
+
+```html
+</ul>
+    <ul class="navbar-nav ml-auto">
+	<li class="nav-item">
+		<a class="nav-link" href='#'>Log In</a>
+	</li>
+	</ul>
+  <div>
+```
