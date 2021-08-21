@@ -169,6 +169,7 @@ class에 btn-block과 brn-sm을 추가한다.
 아이콘을 추가하고 싶을 때 -> [Font awesome](https://fontawesome.com/)이라는 아이콘 툴킷 서비스 이용하기.
 
 2. 아이콘 추가하기
+
 ```html
 <h5 class="modal-title" id="loginModalLabel"><i class="fas fa-sign-in-alt"></i>Log In</h5>
 
@@ -177,7 +178,9 @@ class에 btn-block과 brn-sm을 추가한다.
 ...
 <button type="button" class="btn btn-outline-dark btn-block btn-sm"><i class="far fa-envelope"></i>Sign up with E-mail</button>
 ```
+
 복사해온 코드 뒤에 `&nbsp&nbsp`을 넣으면 여백이 생긴다.
+
 ```html
 <h5 class="modal-title"... </i>&nbsp&nbsp Log In</h5>
 
