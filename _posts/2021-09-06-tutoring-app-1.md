@@ -2,7 +2,7 @@
 title: "[tutorApp] 크롤링, DB, 서버, 앱... 그리고 firebase?"
 author: LaonMoon
 date: 2021-09-06 20:11:00 +/-TTTT
-categories: [Devlopment,tutoring App]
+categories: [Development,tutoring App]
 tags: [tutoring App]
 ---
 
