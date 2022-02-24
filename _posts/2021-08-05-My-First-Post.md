@@ -2,7 +2,7 @@
 title: My First Post
 author: LaonMoon
 date: 2021-08-05 01:16:00 +/-TTTT
-categories: [Blogging, Memo]
+categories: []
 tags: []     # TAG names should always be lowercase
 pin: false
 ---
